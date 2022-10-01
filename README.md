@@ -1,4 +1,4 @@
-# Quake Map (Pyramidal Prision)
+# Pyramidal Prision
 
 A competitive multiplayer Quake Map with multiple rooms and terrain types
 

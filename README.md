@@ -1,4 +1,4 @@
-# Quake Map (Name Unknown)
+# Quake Map (Pyramidal Prision)
 A competitive multiplayer Quake Map with multiple rooms and terrain types
 
 For 2 to 4 players

@@ -1,4 +1,4 @@
-# Pyramidal Prision
+# Pyramid Peril
 
 A competitive multiplayer Quake Map based on a pyramid
 

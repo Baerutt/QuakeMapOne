@@ -5,7 +5,7 @@ A competitive multiplayer Quake Map based on a pyramid
 You have been put in an ancient pyramid for committing crimes and must fight each other
 The last one living is set free while the rest perish there for eternity
 
-This map is for 2 to 4 players and con tains two floors of fun
+This map is for 2 to 4 players and contains two floors of fun
 
 ---
 For more info and progress reports, visit my wiki at: https://github.com/Baerutt/QuakeMapOne/wiki

@@ -4665,6 +4665,7 @@
 "classname" "weapon_lightning"
 "origin" "1653.11 1539.55 -336"
 "angle" "0"
+"targetname" "null1"
 }
 // entity 6
 {
@@ -5009,13 +5010,47 @@
 // entity 69
 {
 "classname" "light"
-"origin" "1688 1512 -24"
+"origin" "1656 1544 -24"
 "style" "0"
-"target" "info_null"
+"target" "null1"
 }
 // entity 70
 {
-"classname" "info_null"
-"origin" "1672 1544 -328"
-"targetname" "light"
+"classname" "light_torch_small_walltorch"
+"origin" "1249.01 1716 -212"
+}
+// entity 71
+{
+"classname" "light_torch_small_walltorch"
+"origin" "2140.87 1340 -196"
+}
+// entity 72
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1692 993.821 -212"
+}
+// entity 73
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1731.97 1972 -212"
+}
+// entity 74
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1916 2489.7 -228"
+}
+// entity 75
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1740 2177.2 -244"
+}
+// entity 76
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1148 1979.97 -212"
+}
+// entity 77
+{
+"classname" "light_torch_small_walltorch"
+"origin" "796 1979.97 -180"
 }

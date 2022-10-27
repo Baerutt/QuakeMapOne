@@ -5009,5 +5009,13 @@
 // entity 69
 {
 "classname" "light"
-"origin" "1656 1480 -24"
+"origin" "1688 1512 -24"
+"style" "0"
+"target" "info_null"
+}
+// entity 70
+{
+"classname" "info_null"
+"origin" "1672 1544 -328"
+"targetname" "light"
 }

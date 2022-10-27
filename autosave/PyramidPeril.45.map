@@ -5679,10 +5679,53 @@
 {
 "classname" "light"
 "origin" "1368 1224 168"
-"wait" ".5"
+"wait" ".65"
 }
 // entity 201
 {
 "classname" "light"
 "origin" "1368 1624 168"
+"wait" ".65"
+}
+// entity 202
+{
+"classname" "light"
+"origin" "1656  1624 168"
+"wait" ".65"
+}
+// entity 203
+{
+"classname" "light"
+"origin" "1656  1224 168"
+"wait" ".65"
+}
+// entity 204
+{
+"classname" "light"
+"origin" "1954  1624 168"
+"wait" ".65"
+}
+// entity 205
+{
+"classname" "light"
+"origin" "1954 1224 168"
+"wait" ".65"
+}
+// entity 206
+{
+"classname" "light"
+"origin" "824 296 120"
+"wait" "1"
+}
+// entity 207
+{
+"classname" "light"
+"origin" "200 296 120"
+"property 1" ""
+"wait" "1"
+}
+// entity 208
+{
+"classname" "light"
+"origin" "600 296 120"
 }

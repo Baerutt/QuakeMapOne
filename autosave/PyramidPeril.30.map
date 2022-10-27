@@ -4921,74 +4921,78 @@
 // entity 55
 {
 "classname" "info_player_deathmatch"
-"origin" "182.043 333.634 40"
-"angle" "90"
-}
-// entity 56
-{
-"classname" "info_player_deathmatch"
 "origin" "281.8 2329.72 40"
 "angle" "270"
 }
-// entity 57
+// entity 56
 {
 "classname" "info_player_deathmatch"
 "origin" "2916.96 2397.4 40"
 "angle" "270"
 }
-// entity 58
+// entity 57
 {
 "classname" "info_player_deathmatch"
 "origin" "2810.57 188.569 48"
 "angle" "180"
 }
-// entity 59
+// entity 58
 {
 "classname" "info_player_deathmatch"
 "origin" "415.003 621.322 -240"
 "angle" "90"
 }
-// entity 60
+// entity 59
 {
 "classname" "info_player_deathmatch"
 "origin" "2551.63 385.804 -152"
 "angle" "90"
 }
-// entity 61
+// entity 60
 {
 "classname" "info_player_deathmatch"
 "origin" "3052.75 2097.05 -152"
 "angle" "270"
 }
-// entity 62
+// entity 61
 {
 "classname" "info_player_deathmatch"
 "origin" "260.79 2301.13 -144"
 "angle" "270"
 }
-// entity 63
+// entity 62
 {
 "classname" "item_health"
 "origin" "1303 1933.94 16"
 }
-// entity 64
+// entity 63
 {
 "classname" "item_health"
 "origin" "1857.7 357.482 16"
 }
-// entity 65
+// entity 64
 {
 "classname" "item_health"
 "origin" "945.465 98.615 16"
 }
-// entity 66
+// entity 65
 {
 "classname" "item_spikes"
 "origin" "1957.61 1994.57 80"
 }
-// entity 67
+// entity 66
 {
 "classname" "weapon_rocketlauncher"
 "origin" "1660.46 1384.31 48"
 "angle" "0"
+}
+// entity 67
+{
+"classname" "info_player_start"
+"origin" "80 128 48"
+}
+// entity 68
+{
+"classname" "info_player_deathmatch"
+"origin" "192 336 40"
 }

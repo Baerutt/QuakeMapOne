@@ -5526,3 +5526,33 @@
 "classname" "light_torch_small_walltorch"
 "origin" "2052 44.6537 -212"
 }
+// entity 172
+{
+"classname" "light_torch_small_walltorch"
+"origin" "2308 689.977 -148"
+}
+// entity 173
+{
+"classname" "light_torch_small_walltorch"
+"origin" "2140.87 788 -212"
+}
+// entity 174
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1892 892 -212"
+}
+// entity 175
+{
+"classname" "light_torch_small_walltorch"
+"origin" "2308 993.821 -196"
+}
+// entity 176
+{
+"classname" "light_torch_small_walltorch"
+"origin" "2469.37 332 -100"
+}
+// entity 177
+{
+"classname" "light_torch_small_walltorch"
+"origin" "2964 44.6537 -52"
+}

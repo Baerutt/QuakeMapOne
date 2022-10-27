@@ -5011,11 +5011,11 @@
 // entity 69
 {
 "classname" "light"
-"origin" "1672 1544 -104"
+"origin" "1672 1544 -120"
 "style" "0"
 "target" "null1"
-"delay" ".75"
-"wait" "3"
+"delay" "1"
+"wait" ".5"
 }
 // entity 70
 {
@@ -5657,4 +5657,32 @@
 {
 "classname" "light"
 "origin" "216 2072 184"
+}
+// entity 198
+{
+"classname" "info_null"
+"origin" "1672 1384 56"
+"targetname" "null2"
+"target" "null2"
+}
+// entity 199
+{
+"classname" "light"
+"origin" "1656 1384 264"
+"style" "0"
+"target" "null2"
+"delay" "1"
+"wait" ".5"
+"targetname" "null2"
+}
+// entity 200
+{
+"classname" "light"
+"origin" "1368 1224 168"
+"wait" ".5"
+}
+// entity 201
+{
+"classname" "light"
+"origin" "1368 1624 168"
 }

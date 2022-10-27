@@ -5011,9 +5011,11 @@
 // entity 69
 {
 "classname" "light"
-"origin" "1672 1544 -24"
+"origin" "1672 1544 -104"
 "style" "0"
 "target" "null1"
+"delay" ".75"
+"wait" "3"
 }
 // entity 70
 {
